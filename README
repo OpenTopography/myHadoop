@@ -3,10 +3,14 @@ myHadoop is no longer being updated here. Originally written by Sriram Krishnan 
 
 myHadoop
 --------
-myHadoop is a simple system for end-users to provision Hadoop instances on traditional supercomputing resources, without requiring any root privileges. Users may use myHadoop to configure and instantiate Hadoop on the fly via regular batch scripts.
-We are currently supporting the PBS (Moab) and the Sun Grid Engine (SGE) schedulers, although a port to a scheduler such as Condor would be very trivial.
+myHadoop enables the use of Hadoop in a non-dedicated cluster environment,
+being administered by typical batch scheduler. We are currently supporting
+the PBS (Moab) and the Sun Grid Engine (SGE) schedulers, although a port to
+a scheduler such as Condor would be very trivial.
 
-The pbs-example.sh and sge-example.sh provide an example of how to use myHadoop with PBS and SGE respectively. For more details, please read the documentation in the "docs" directory.
+The pbs-example.sh and sge-example.sh provide an example of how to use
+myHadoop with PBS and SGE respectively. For more details, please read the
+documentation in the "docs" directory.
 
 Pre-requisites
 --------------
