@@ -15,3 +15,9 @@ documentation in the "docs" directory.
 Pre-requisites
 --------------
 myHadoop needs Apache Hadoop 0.20.2 and a batch scheduler such as PBS.
+
+Other
+-----
+Work was funded by a grant from the NSF Cluster Exploratory (CluE) program (Award# IIS-0844530, PI: Baru, Co-PI Krishnan)
+More info: 
+http://nsf.gov/awardsearch/showAward?AWD_ID=0844530
