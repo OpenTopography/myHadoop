@@ -1,3 +1,6 @@
+[![NSF-0844530](https://img.shields.io/badge/NSF-0844530-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=0844530) 
+
+
 *UPDATE*
 myHadoop is no longer being updated here. Originally written by Sriram Krishnan at SDSC, it is currently being maintained at https://github.com/glennklockwood/myhadoop/ 
 
